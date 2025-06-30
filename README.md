@@ -1,4 +1,4 @@
-#  Project : Sales Insights of Data Analysis-AtliQ Hardware
+#  Project : Sales Insights of AtliQ Hardware
 
 ![Sales insights AtliQ](https://user-images.githubusercontent.com/118357991/230730818-34393de8-2b5c-46da-83f1-be293b0107b4.png)
 
@@ -12,8 +12,6 @@
 - [Data Analysis (DAX)](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#data-analysis--dax)
 - [Build Dashboard Or a Report](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#build-dashboard-or-a-report)
 - [Tools, Software and Libraries](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#tools-software-and-libraries-)
-- [References](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#references-)
-
 
 ## Problem Statement :
 
@@ -255,8 +253,6 @@ Shows visualizations from Sales insights :
 
 3.DAX Language 
 
-## References :
-https://codebasics.io/panel/webinars/purchases
 
 https://www.sqlbi.com/learn/introducing-dax-video-course/0/
 
