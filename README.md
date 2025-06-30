@@ -1,6 +1,5 @@
 #  Project : Sales Insights of AtliQ Hardware
 
-![Sales insights AtliQ](https://user-images.githubusercontent.com/118357991/230730818-34393de8-2b5c-46da-83f1-be293b0107b4.png)
 
 ## Table of Contents:
 
@@ -253,9 +252,5 @@ Shows visualizations from Sales insights :
 
 3.DAX Language 
 
-
-https://www.sqlbi.com/learn/introducing-dax-video-course/0/
-
-https://dev.mysql.com/doc/
 
 ---
